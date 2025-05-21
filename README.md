@@ -8,7 +8,7 @@ base_model:
 
 # Gemma-2-2b 초등학생 글 변환기
 
-[huggingface](https://huggingface.co/skwh54/Gemma-2-2b-it-elementary-style-document)
+model : [huggingface](https://huggingface.co/skwh54/Gemma-2-2b-it-elementary-style-document)
 
 ## 💻 Model Description
 - Gemma2-2b 한국 초등학생 글 변환기는 입력한 글을 초등학생이 쓴 것 같은 글로 변환해 주는 모델입니다.
